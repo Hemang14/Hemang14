@@ -2,11 +2,11 @@
 
 <div align="center">
   
-- 👋 Hi, I’m Hemang Singh
-- 👀 I’m interested in Cyber Security 
-- 🌱 I'm studying computer engineering at the moment.
-- 💞️ I’m looking to collaborate on Web Development open source projects
-- 📫 How to reach me 👇 <br><br>
+👋 Hi, I’m Hemang Singh
+👀 Interested in Cyber Security 
+🌱 Currently studying computer engineering at the moment.
+💞️ Looking to collaborate on Web Development open source projects
+📫 How to reach me 👇 <br><br>
 
 <p float="left">
   <a href="https://www.linkedin.com/in/hemang14"><img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="40"></a> &nbsp &nbsp
