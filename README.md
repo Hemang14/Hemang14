@@ -7,6 +7,9 @@
 - 🌱 I'm studying computer engineering at the moment.
 - 💞️ I’m looking to collaborate on Web Development open source projects
 - 📫 How to reach me ...
+<a href="www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
+
+<hr width="50%" style="height:5px;">
 
 ![](https://img.shields.io/badge/<Code>-<C>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
@@ -16,9 +19,7 @@
 ![](https://img.shields.io/badge/<Code>-<Sql>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/<UI>-<Flutter>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-<a href="www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="20"></a>
 
-<hr width="50%" style="height:5px;">
 
 </div>
 <!---
