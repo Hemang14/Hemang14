@@ -2,10 +2,10 @@
 
 <div align="center">
   
-👋 Hi, I’m Hemang Singh
-👀 Interested in Cyber Security 
-🌱 Currently studying computer engineering at the moment.
-💞️ Looking to collaborate on Web Development open source projects
+👋 Hi, I’m Hemang Singh<br>
+👀 Interested in Cyber Security<br> 
+🌱 Currently studying computer engineering at the moment.<br>
+💞️ Looking to collaborate on Web Development open source projects<br>
 📫 How to reach me 👇 <br><br>
 
 <p float="left">
