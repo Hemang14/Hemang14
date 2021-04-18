@@ -10,7 +10,7 @@
 
 <p float="left">
   <a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="40"></a> &nbsp &nbsp
-  <a href="https://www.hackerrank.com/hemang_14"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHackerRank&psig=AOvVaw1NwTqmQNDP98Vr0rZkvDJE&ust=1618847728621000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDv4oWUiPACFQAAAAAdAAAAABAD" width="40"></a> &nbsp &nbsp
+  <a href="https://www.hackerrank.com/hemang_14"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40"></a> &nbsp &nbsp
   <a href="https://www.instagram.com/hemangsingh_14/"><img src="https://simpleicons.org/icons/instagram.svg" width="40"></a>
   
  </p>
