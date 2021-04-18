@@ -17,7 +17,7 @@
 <hr width="50%" style="height:5px;">
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=data:image/svg%2bxml?logo=visual-studio-code;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Python-informational?logo=visual-studio-code?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
