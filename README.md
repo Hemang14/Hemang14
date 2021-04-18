@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Web Development open source projects
 - 📫 How to reach me ...<br><br>
 <p float="left">
-<a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/hemang14"><img align="left" src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
 
 
 <a href="https://www.hackerrank.com/hemang_14"><img src="https://simpleicons.org/icons/hackerrank.svg" width="30"></a>
