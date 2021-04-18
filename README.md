@@ -7,7 +7,7 @@
 - 🌱 I'm studying computer engineering at the moment.
 - 💞️ I’m looking to collaborate on Web Development open source projects
 - 📫 How to reach me ...<br>
-<a href="www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
 
 <hr width="50%" style="height:5px;">
 
