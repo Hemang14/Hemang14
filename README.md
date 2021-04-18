@@ -9,9 +9,9 @@
 - 📫 How to reach me ...<br><br>
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
-  <a href="https://www.hackerrank.com/hemang_14"><img src="https://simpleicons.org/icons/hackerrank.svg" width="30"></a>
-  <a href="https://www.instagram.com/hemangsingh_14/"><img src="https://simpleicons.org/icons/instagram.svg" width="30"></a>
+  <a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a> &nbsp &nbsp
+  <a href="https://www.hackerrank.com/hemang_14"><img src="https://simpleicons.org/icons/hackerrank.svg" width="30"></a> &nbsp &nbsp
+  <a href="https://www.instagram.com/hemangsingh_14/"><img src="https://simpleicons.org/icons/instagram.svg" width="30"></a> &nbsp &nbsp
   
  </p>
 <hr width="50%" style="height:5px;">
