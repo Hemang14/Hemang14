@@ -8,13 +8,18 @@
 - 💞️ I’m looking to collaborate on Web Development open source projects
 - 📫 How to reach me ...<br><br>
 <p float="left">
-<a href="https://www.linkedin.com/in/hemang14"><img align="left" src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
-
-
-<a href="https://www.hackerrank.com/hemang_14"><img src="https://simpleicons.org/icons/hackerrank.svg" width="30"></a>
-
-<a href="https://www.instagram.com/hemangsingh_14/"><img src="https://simpleicons.org/icons/instagram.svg" width="30"></a>
-</p>
+ <div class="row">
+  <div class="column">
+    <a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="30"></a>
+   </div>
+  <div class="column">
+    <a href="https://www.hackerrank.com/hemang_14"><img src="https://simpleicons.org/icons/hackerrank.svg" width="30"></a>
+   </div>
+   <div class="column">
+      <a href="https://www.instagram.com/hemangsingh_14/"><img src="https://simpleicons.org/icons/instagram.svg" width="30"></a>
+   </div>
+   </div>
+ </p>
 <hr width="50%" style="height:5px;">
 
 ![](https://img.shields.io/badge/<Code>-<C>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
