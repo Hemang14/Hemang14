@@ -9,9 +9,9 @@
 - 📫 How to reach me 👇 <br><br>
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/hemang14"><img src="https://simpleicons.org/icons/linkedin.svg" width="40"></a> &nbsp &nbsp
+  <a href="https://www.linkedin.com/in/hemang14"><img src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" width="40"></a> &nbsp &nbsp
   <a href="https://www.hackerrank.com/hemang_14"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="40"></a> &nbsp &nbsp
-  <a href="https://www.instagram.com/hemangsingh_14/"><img src="https://simpleicons.org/icons/instagram.svg" width="40"></a>
+  <a href="https://www.instagram.com/hemangsingh_14/"><img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" width="40"></a>
   
  </p>
 <hr width="50%" style="height:5px;">
