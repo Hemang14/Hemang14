@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Sql-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/UI-Flutter-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
