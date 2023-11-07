@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-I’m a designer who codes, with 2+ Years of Experience. Full-Stack Developer with 2+ years of experience leading front-end and back-end with the ability to perform well in team/individual. I am skilled in competent C++ programmer and writing application interface code via Javascript and ReactJS with workflows such as REDUX framework.
+I’m a designer who codes, with 2+ Years of Experience. Full-Stack Developer with 2+ years of experience leading front-end and back-end with the ability to perform well in team/individual. I am skilled in competent C++, Pyhton, Swift programmer and writing application interface code via Javascript and ReactJS with workflows such as REDUX framework.
 
 
 ## 🌐 Socials:
