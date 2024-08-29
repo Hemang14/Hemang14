@@ -1,8 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-I’m a designer who codes, with 2+ Years of Experience. Full-Stack Developer with 2+ years of experience leading front-end and back-end with the ability to perform well in team/individual. I am skilled in competent C++, Pyhton, Swift programmer and writing application interface code via Javascript and ReactJS with workflows such as REDUX framework.
-
+I am a versatile designer and full-stack developer with over 2 years of experience, including 1.5 years as an iOS app developer at SIXT. I excel in both front-end and back-end development, delivering high-quality code and innovative design solutions in collaborative and individual settings. My technical expertise includes proficiency in C++, Python, Swift, and strong command of JavaScript and ReactJS, with experience in state management and workflows using the Redux framework.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hemangsingh_14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemang14/) 
